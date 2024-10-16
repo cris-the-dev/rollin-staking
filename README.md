@@ -1,41 +1,38 @@
-# SeiBallz Staking
+# Rollin Staking
 
 ## Introduction
-**SeiBallz Staking** is a cutting-edge staking platform designed to enhance token utility and community engagement. Our platform offers a user-friendly interface for both token owners and stakers, enabling a seamless experience that drives participation and rewards.
+**Rollin Staking** is an innovative staking platform designed to enhance token utility and promote community engagement. By providing a seamless and user-friendly interface, our platform allows anyone to create and manage staking pools, driving participation and rewards within the ecosystem.
 
 ## Project Overview
-The primary aim of **SeiBallz Staking** is to empower token owners and users by providing robust features that facilitate staking, enhance tokenomics, and encourage long-term investment.
+The primary goal of **Rollin Staking** is to empower both token holders and the broader community by offering flexible staking options, promoting long-term investment, and supporting a vibrant token economy.
 
 ### Core Features
 
-#### For Token Owners
+#### For Staking Pool Creators
 1. **Create Staking Pool**
-   - Token owners can effortlessly set up their own staking pools, providing a tailored experience for their communities. This feature ensures that each pool aligns with the specific needs and goals of the token.
+   - Anyone can create a staking pool on **Rollin Staking**, provided they own at least 10% of the total token supply. Ownership is verified, but no tokens are required to be provided for the pool itself. This ensures that community members can contribute to the ecosystem's growth by initiating staking opportunities.
 
-2. **Set Staking Options for Staking Pool**
-   - **Staking Period**: Token owners can define the duration for which users can stake their tokens, allowing flexibility in user participation.
-   - **Annual Percentage Yield (APY)**: Owners can set competitive APY rates, incentivizing users to stake and increasing demand for the token. This feature supports dynamic adjustment based on market conditions to maximize user engagement.
+2. **Set Staking Options for the Pool**
+   - **Staking Period**: Pool creators can define the staking duration, giving participants flexibility in how long they wish to commit their tokens.
+   - **Annual Percentage Yield (APY)**: Competitive APY rates can be set by pool creators, offering attractive rewards for stakers. These rates can be adjusted over time to match market conditions and encourage ongoing participation.
 
 #### For Users
 1. **Stake**
-   - Users can easily stake their tokens in designated pools, earning rewards throughout the staking period. The platform supports multiple tokens, offering users a variety of options to choose from.
+   - Users can stake their tokens in any eligible staking pool, earning rewards based on the APY set by the pool creator. The platform supports a range of tokens, giving users diverse options to participate.
 
 2. **Unstake**
-   - The platform allows users to unstake their tokens whenever they wish, ensuring a user-friendly experience and promoting confidence in token ownership.
-
-3. **Unstake While in Locking Period**
-   - Users have the flexibility to unstake their tokens even during a locking period, with the following conditions:
-     - The unstaked amount will be locked for an additional **X days**.
-     - A fee will be charged for early unstaking, balancing flexibility with the need to maintain pool integrity.
+   - Users must wait until the end of the staking period to unstake and receive their rewards. If a user decides to unstake before the staking period concludes:
+     - A fee will be charged (X% of the staked amount).
+     - The unstaked tokens will be locked for an additional **X days** before they become available for withdrawal.
 
 ## Benefits of the Project
-- **Increased Token Utility**: By integrating into our platform, tokens gain additional use cases, encouraging holders to engage with the ecosystem actively.
-- **Enhanced Community Engagement**: The ability to stake fosters a sense of community and loyalty, encouraging users to participate and invest in the token’s future.
-- **Attractive Financial Incentives**: Competitive APY rates will draw users to stake, increasing demand and liquidity for the token.
-- **Simplified Management**: Token owners can easily manage their staking pools through an intuitive dashboard, tracking performance and user engagement.
+- **Increased Token Utility**: **Rollin Staking** adds new use cases for tokens, encouraging holders to actively participate in the staking process and contribute to the ecosystem’s growth.
+- **Broader Community Engagement**: By allowing anyone with sufficient token ownership to create staking pools, the platform fosters a sense of community, enabling more people to take part in the project’s success.
+- **Attractive Financial Incentives**: Competitive APY rates incentivize users to stake their tokens, driving demand and increasing token liquidity.
+- **Simple Pool Management**: Pool creators can manage their staking pools through an intuitive dashboard, with real-time tracking of performance and user engagement.
 
 ## Conclusion
-**SeiBallz Staking** aims to revolutionize the staking experience by providing comprehensive features that benefit both token owners and users. By fostering community engagement and increasing token utility, we envision creating a thriving ecosystem that supports long-term investment and collaboration.
+**Rollin Staking** aims to redefine the staking experience by offering powerful tools and a flexible platform that benefits both staking pool creators and participants. By fostering community involvement and increasing token utility, we strive to create a thriving ecosystem built on long-term investment and collaboration.
 
 ### Next Steps
-We invite you to discuss this project further and explore how your token can be integrated into **SeiBallz Staking**. Together, we can create a dynamic platform that empowers both token owners and users.
+We invite you to explore how your token can be integrated into **Rollin Staking**. Reach out to us to discuss further details and take the next step toward creating dynamic staking pools that benefit your community.
